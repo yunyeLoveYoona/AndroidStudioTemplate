@@ -1,0 +1,3 @@
+# AndroidStudioTemplate
+
+这是一个简单的AndroidStudio Activity模板，可以用作AndroidStudio插件，用来创建一个集成了DrawerLayout RecycleView 以及SwipeRefreshLayout的Activity
